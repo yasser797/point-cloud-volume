@@ -31,3 +31,6 @@ python pcd_volume.py <path_to_point_cloud>
 - Press 'q' to finish the cropping process.
 - The script will then compute the convex hull of the cropped point cloud and display its volume.
 - Finally, the cropped point cloud, the convex hull, and the bounding box will be displayed in a new visualization window.
+
+### Point Cloud Crop Example
+![Crop Example](assets/demo.gif)
