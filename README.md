@@ -1,4 +1,4 @@
-# Point Cloud Visualization and Cropping
+# Point Cloud Cropping and Volume Calculation
 
 This Python script allows you to visualize a 3D point cloud, interactively crop it using a bounding box, and compute the convex hull and its volume. The script uses Open3D and OpenCV libraries for processing and visualization.
 
