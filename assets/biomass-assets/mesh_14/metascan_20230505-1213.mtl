@@ -1,0 +1,9 @@
+# Source: Metascan 2.9.0
+# Device: iPhone 13 Pro Max
+#
+# Exported: 2023-05-06T15:26:17.011451Z
+#
+
+newmtl material_0
+illum 1
+map_Kd metascan_20230505-1213_tex0.jpeg
